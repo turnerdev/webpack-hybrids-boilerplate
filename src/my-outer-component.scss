@@ -1,0 +1,8 @@
+@import "variables";
+
+:host {
+    background-color: $color_var;
+    display: block;
+    padding: 5vmin;
+    user-select: none;
+}
